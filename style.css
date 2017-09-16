@@ -1,0 +1,13 @@
+body { background:#222; }
+
+#nav {widht: 960px; background:#fff; margin: 180px; float: left; border-radius: 5px;}
+#nav ul {margin: 0; padding:0; list-style: none; width: 100%; float: left;}
+#nav ul li {background: #808080; float: left; font: 16px arial; border-right: 1px solid: #eee;}
+#nav ul li a {color:black; text-decoration: none; padding:20px; display: block}
+#nav ul li:hover {background:#eee;}
+#nav ul li .Home {background: white url(image/01-Home.jpeg) no-repeat center; float: left; width: 100%; padding: 30px 0; margin-bottom:15px;} 
+#nav ul li .Pistolas {background: white url(image/02-Pistolas.jpeg) no-repeat center; float: left; width: 100%; padding: 30px 0; margin-bottom:15px;} 
+#nav ul li .Rifles {background: white url(image/03-Rifles.jpeg) no-repeat center; float: left; width: 100%; padding: 30px 0; margin-bottom:15px;} 
+#nav ul li .Quemsomos {background: white url(image/04-quemsomos.jpeg) no-repeat center; float: left; width: 100%; padding: 30px 0; margin-bottom:15px;} 
+
+
